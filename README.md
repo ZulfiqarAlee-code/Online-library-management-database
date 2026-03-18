@@ -1,5 +1,5 @@
 # 📚 Online Library Management System (Database Project)
-![Database Diagram](Online_library mangement system.png)
+![Database Diagram](Online_library_mangement_system.png)
 ## 📌 Overview
 
 This project is a **relational database system** designed for managing a library. It allows users to borrow and return books, while maintaining records of authors, categories, and transactions.
